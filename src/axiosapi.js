@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let URL = 'http://localhost:5000/'
+let URL = 'https://movie-booking-mern-backend.herokuapp.com/'
 export const getuser = ()=>{
     return axios.get(`${URL}users/`).then(res=>res.data)
 }

@@ -29,4 +29,5 @@ const Routing = ()=>{
       </Router>
     );
   };
+  // "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install --prefix booking_backend && npm run build --prefix booking_backenend"
 export default App;
