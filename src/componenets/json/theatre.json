@@ -1,0 +1,175 @@
+{
+    "inox":[
+        { 
+            "id":1,
+            "time": "09:15 AM",
+            "cinema": "Inox cinemas"
+        },
+        { 
+            "id":2,
+            "time": "12:10 PM",
+            "cinema": "Inox cinemas"
+        },
+        { 
+            "id":3,       
+            "time": "03:30 PM",
+            "cinema": "Inox cinemas"
+        },
+        { 
+            "id":4,       
+            "time": "04:40 PM",
+            "cinema": "Inox cinemas"
+        },
+        { 
+            "id":5,            
+            "time": "07:50 PM",
+            "cinema": "Inox cinemas"
+        }
+    ],
+   "pvr":[
+        { 
+            "id":6,       
+            "time": "10:40 AM",
+            "cinema": "PVR cinemas"
+        },
+        { 
+            "id":7,
+            "time": "03:20 PM",
+            "cinema": "PVR cinemas"
+        },
+        { 
+            "id":8,       
+            "time": "09:15 PM",
+            "cinema": "PVR cinemas"
+        }
+    ],  
+    "spi":[
+        { 
+            "id":9,
+            "time": "09:40 AM",
+            "cinema": "SPI The-cinemas"
+        },
+        { 
+            "id":10,
+            "time": "12:35 PM",
+            "cinema": "SPI The-cinemas"
+        },
+        { 
+            "id":11,       
+            "time": "03:35 PM",
+            "cinema": "SPI The-cinemas"
+        },
+        { 
+            "id":12,       
+            "time": "08:20 PM",
+            "cinema": "SPI The-cinemas"
+        }
+    ],
+    "sathyam":[
+        { 
+            "id":13,
+            "time": "09:30 AM",
+            "cinema": "Sathyam cinemas"
+        },
+        { 
+            "id":14,
+            "time": "01:10 PM",
+            "cinema": "Sathyam cinemas"
+        },
+        { 
+            "id":15,       
+            "time": "03:25 PM",
+            "cinema": "Sathyam cinemas"
+        },
+        { 
+            "id":16,       
+            "time": "07:30 PM",
+            "cinema": "Sathyam cinemas"
+        },
+        { 
+            "id":17,            
+            "time": "10:05 PM",
+            "cinema": "Sathyam cinemas"
+        }
+    ], 
+    "fun": [
+        { 
+            "id":18,
+            "time": "10:10 AM",
+            "cinema": "FUN cinemas"
+        },
+        { 
+            "id":19,
+            "time": "12:40 PM",
+            "cinema": "FUN cinemas"
+        },
+        { 
+            "id":20,       
+            "time": "03:10 PM",
+            "cinema": "FUN cinemas"
+        },
+        { 
+            "id":21,       
+            "time": "04:40 PM",
+            "cinema": "FUN cinemas"
+        },
+        { 
+            "id":22,            
+            "time": "06:50 PM",
+            "cinema": "FUN cinemas"
+        },
+        { 
+            "id":23,            
+            "time": "10:30 PM",
+            "cinema": "FUN cinemas"
+        }
+
+    ],
+    
+    "ags": [
+        { 
+            "id":24,
+            "time": "11:05 AM",
+            "cinema": "AGS cinemas"
+        },
+        { 
+            "id":25,
+            "time": "02:20 PM",
+            "cinema": "AGS cinemas"
+        },
+        { 
+            "id":26,       
+            "time": "04:50 PM",
+            "cinema": "AGS cinemas"
+        },
+        { 
+            "id":27,       
+            "time": "09:00 PM",
+            "cinema": "AGS cinemas"
+        }
+    ],
+    
+    "big":
+    [
+        { 
+            "id":28,
+            "time": "09:05 AM",
+            "cinema": "BIG cinemas"
+        },
+        { 
+            "id":29,
+            "time": "11:55 PM",
+            "cinema": "BIG cinemas"
+        },
+        { 
+            "id":30,       
+            "time": "03:45 PM",
+            "cinema": "BIG cinemas"
+        },
+        { 
+            "id":31,       
+            "time": "07:55 PM",
+            "cinema": "BIG cinemas"
+        }
+    ] 
+}

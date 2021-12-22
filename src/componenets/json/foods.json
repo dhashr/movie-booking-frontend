@@ -1,0 +1,105 @@
+{
+    "snacks":[
+        { 
+            "id":1,
+            "name":"puff",
+            "price":30,
+            "img":"https://www.kindpng.com/picc/m/77-774087_diverse-range-and-distribution-bakery-puff-png-transparent.png"
+        },
+        {
+            "id":2,
+            "name":"lays",
+            "price":20,
+            "img":"https://www.pngkit.com/png/full/347-3476552_frito-lay-single-serve-product-image-chip-cheese.png"
+        },
+        {
+            "id":3,
+            "name":"samoza",
+            "price":20,
+            "img":"https://www.seekpng.com/png/detail/293-2934350_00pm-to-samosa-png.png"
+        },
+        {
+            "id":4,
+            "name":"finger-fries",
+            "price":75,
+            "img":"https://freepngimg.com/thumb/junk_food/173465-crunchy-fries-french-free-png-hq.png"
+        }
+    ],
+    "popcorns":[
+        {
+            "id":1,
+            "name":"butter popcorn small",
+            "price":50,
+            "img":"https://purepng.com/public/uploads/large/purepng.com-popcornpopcorncorndent-cornflint-corn-1411528651541prz2y.png"
+        },
+        {
+            "id":2,
+            "name":"butter popcorn large",
+            "price":100,
+            "img":"https://pngimg.com/uploads/popcorn/popcorn_PNG41.png"
+        },
+        {
+            "id":3,
+            "name":"popcorn small",
+            "price":35,
+            "img":"https://purepng.com/public/uploads/large/purepng.com-popcornpopcorncorndent-cornflint-corn-1411528651541prz2y.png"
+        },
+        {
+            "id":4,
+            "name":" popcorn large",
+            "price":60,
+            "img":"https://pngimg.com/uploads/popcorn/popcorn_PNG41.png"
+        },
+        {
+            "id":5,
+            "name":"caramel popcorn small",
+            "price":65,
+            "img":"https://purepng.com/public/uploads/large/purepng.com-popcornpopcorncorndent-cornflint-corn-1411528651541prz2y.png"
+        },
+        {
+            "id":6,
+            "name":"caramel popcorn large",
+            "price":120,
+            "img":"https://pngimg.com/uploads/popcorn/popcorn_PNG41.png"
+        }
+    ],
+    "bevearages":[
+        {
+            "id":1,
+            "name":"coke",
+            "price":30,
+            "img":"https://cdn.yourpng.com/uploads/preview/coca-cola-png-images-116282386346el3z1laio.png"
+        },
+        {
+            "id":2,
+            "name":"large coke",
+            "price":50,
+            "img":"https://freepngimg.com/save/2441-coca-cola-drink-png-image/320x500"
+        },
+        {
+            "id":3,
+            "name":"green tea",
+            "price":60,
+            "img":"https://freepngimg.com/thumb/tea/30509-5-tea-transparent-image.png"
+        },
+        {
+            "id":4,
+            "name":" cold coffee",
+            "price":75,
+            "img":"https://pngimage.net/wp-content/uploads/2018/05/coffee-ice-png-1.png"
+        },
+        {
+            "id":5,
+            "name":"masala tea",
+            "price":30,
+            "img":"https://d3gg7p8kl1yfy0.cloudfront.net/Recipe-Detail-Oat_Milk_Latte.png?mtime=20190711105744&focal=none"
+        },
+        {
+            "id":6,
+            "name":"coffee",
+            "price":35,
+            "img":"https://pngimg.com/uploads/mug_coffee/mug_coffee_PNG16824.png"
+        }
+    ]
+}
+
